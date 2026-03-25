@@ -1,0 +1,7 @@
+.spyproject
+.checkpoints
+.data
+.logs
+.results
+.results
+.__pycache__
