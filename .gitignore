@@ -1,7 +1,8 @@
 .spyproject
-.checkpoints
-.data
+checkpoints/
+data/
+__pycache__/
+*.pyc
+.spyproject
 .logs
 .results
-.results
-.__pycache__
